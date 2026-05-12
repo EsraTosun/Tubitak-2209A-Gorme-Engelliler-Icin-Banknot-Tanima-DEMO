@@ -1,4 +1,4 @@
-# 📱 Görme Engelliler İçin Banknot Tanıma Uygulaması (TÜBİTAK 2209-A)
+[Portfolyo.docx](https://github.com/user-attachments/files/27633125/Portfolyo.docx)# 📱 Görme Engelliler İçin Banknot Tanıma Uygulaması (TÜBİTAK 2209-A)
 
 Bu proje, görme engelli bireylerin günlük hayatta finansal işlemlerini daha güvenli ve bağımsız bir şekilde gerçekleştirebilmeleri için geliştirilmiş, görüntü işleme tabanlı bir mobil yardımcıdır. **TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı** kapsamında desteklenmiş bir mühendislik çalışmasıdır.
 
@@ -26,3 +26,6 @@ graph TD
     D --> E{Banknot Tanıma Kararı}
     E -->|Başarılı| F[Sesli Bildirim: Örn. 100 TL]
     E -->|Başarısız| G[Yeniden Tara Hatırlatıcısı]
+
+<img width="720" height="1600" alt="WhatsApp Görsel 2024-02-13 saat 12 58 43_c21f8b89" src="https://github.com/user-attachments/assets/11163f03-b0a2-4487-89d2-9b15267cebde" />
+<img width="720" height="1600" alt="WhatsApp Görsel 2024-02-13 saat 12 58 44_13677566" src="https://github.com/user-attachments/assets/d9db8e92-0392-4f0d-9941-30ce630890d8" />
