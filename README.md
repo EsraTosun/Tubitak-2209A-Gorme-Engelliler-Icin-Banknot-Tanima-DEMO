@@ -1,4 +1,4 @@
-[Portfolyo.docx](https://github.com/user-attachments/files/27633125/Portfolyo.docx)# 📱 Görme Engelliler İçin Banknot Tanıma Uygulaması (TÜBİTAK 2209-A)
+# 📱 Görme Engelliler İçin Banknot Tanıma Uygulaması (TÜBİTAK 2209-A)
 
 Bu proje, görme engelli bireylerin günlük hayatta finansal işlemlerini daha güvenli ve bağımsız bir şekilde gerçekleştirebilmeleri için geliştirilmiş, görüntü işleme tabanlı bir mobil yardımcıdır. **TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı** kapsamında desteklenmiş bir mühendislik çalışmasıdır.
 
@@ -17,6 +17,9 @@ Mobil entegrasyon öncesinde, görüntü işleme algoritmaları Python üzerinde
 ### 2. Mobil Uygulama Geliştirme (Flutter & Dart)
 Doğruluğu kanıtlanmış algoritmalar, Flutter ortamına aktarılarak performans odaklı bir mobil uygulama haline getirilmiştir. Gerçek zamanlı görüntü işleme ile düşük gecikmeli sonuçlar elde edilmiştir.
 
+<img width="720" height="1600" alt="WhatsApp Görsel 2024-02-13 saat 12 58 44_13677566" src="https://github.com/user-attachments/assets/6596890c-ba6c-4a20-bf81-4b68953f6d3c" />
+<img width="720" height="1600" alt="WhatsApp Görsel 2024-02-13 saat 12 58 43_c21f8b89" src="https://github.com/user-attachments/assets/80582f22-b37d-46a2-abe5-be2cda6971a4" />
+
 ## 📊 İşlem Akışı
 ```mermaid
 graph TD
@@ -27,5 +30,4 @@ graph TD
     E -->|Başarılı| F[Sesli Bildirim: Örn. 100 TL]
     E -->|Başarısız| G[Yeniden Tara Hatırlatıcısı]
 
-<img width="720" height="1600" alt="WhatsApp Görsel 2024-02-13 saat 12 58 44_13677566" src="https://github.com/user-attachments/assets/6596890c-ba6c-4a20-bf81-4b68953f6d3c" />
-<img width="720" height="1600" alt="WhatsApp Görsel 2024-02-13 saat 12 58 43_c21f8b89" src="https://github.com/user-attachments/assets/80582f22-b37d-46a2-abe5-be2cda6971a4" />
+
